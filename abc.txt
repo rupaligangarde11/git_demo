@@ -1,5 +1,8 @@
 abc
+<<<<<<< HEAD
 def
 ghi
 jkl
 nmp
+=======
+>>>>>>> parent of fb4e691... commit 2
